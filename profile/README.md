@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-
+Applications built and designed to assist in making data access simplified and extensible.
 
 | Repository                                         | Description  |
 |--------------------------------------------------------|----------------|
