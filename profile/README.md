@@ -4,7 +4,9 @@
 
 | Repository                                         | Description  |
 |--------------------------------------------------------|----------------|
-|[https://github.com/HC-Connexxus-Integration/IntegrationFramework](https://github.com/HC-Connexxus-Apps/IntegrationApps) |Integration Applications |                                                                                                                                                                                                                                                           
+|[https://github.com/HC-Connexxus-Integration/IntegrationFramework](https://github.com/HC-Connexxus-Apps/IntegrationApps) |Integration Applications |   
+|https://github.com/HC-Connexxus-Apps/NodeApps|Node Based Applications|
+
 
 <!--
 
